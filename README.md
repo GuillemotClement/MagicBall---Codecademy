@@ -1,5 +1,6 @@
 # Projet MagicBall du site Codecademy
-(https://www.codecademy.com/journeys/full-stack-engineer/paths/fscj-22-building-interactive-websites/tracks/fscj-22-javascript-syntax-part-i/modules/wdcp-22-learn-javascript-syntax-conditionals-0e12e9e0-b36f-476e-b10c-afbc7cd6dbfe/projects/magic-eight-ball-1)[Liens vers le projet]
+[Liens vers le projet](https://www.codecademy.com/journeys/full-stack-engineer/paths/fscj-22-building-interactive-websites/tracks/fscj-22-javascript-syntax-part-i/modules/wdcp-22-learn-javascript-syntax-conditionals-0e12e9e0-b36f-476e-b10c-afbc7cd6dbfe/projects/magic-eight-ball-1)
+
 
 ## Objectif
 Cet exercice permet de travailler avec les conditions.
